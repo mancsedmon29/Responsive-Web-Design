@@ -1,7 +1,5 @@
-# Responsive Web Design Certification
+# Learn HTML Forms by Building a Registration Form, Completed
 
-You will learn the languages used by developers to create webpages in this Responsive Web Design Certification: HTML (Hypertext Markup Language) for content and CSS (Cascading Style Sheets) for design.
+HTML forms are a useful tool for gathering data from website visitors.
 
-To start, you'll master the fundamentals of HTML and CSS by creating a cat photo app. Eventually, you will construct a penguin to learn about current approaches like CSS variables, and a quiz site to learn about best standards for accessibility.
-
-Lastly, you will learn how to create responsive webpages by using CSS Grid to create a magazine article layout and Flexbox to build a photo gallery.
+By creating a signup page, you will gain knowledge of HTML forms in this course. You'll discover new CSS style tools and how to restrict the kinds of data users can enter into your form.
