@@ -1,2 +1,5 @@
-# Responsive Web Design
-In this Responsive Web Design Certification, you'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
+# Learn Basic CSS by Building a Cafe Menu
+
+The way a browser displays your webpage is determined by CSS. HTML elements can have their color, font, size, and other properties changed with CSS.
+
+You will study CSS in this course by creating a menu page for a website for a cafe.
