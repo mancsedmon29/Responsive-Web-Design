@@ -1,2 +1,6 @@
-# Responsive Web Design
-In this Responsive Web Design Certification, you'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
+# Learn CSS Colors by Building a Set of Colored Markers
+
+Making the right color choices for your website can significantly increase readers' visual attractiveness.
+
+You will assemble a set of colorful markers during this session. You'll discover many techniques for assigning values to colors and for matching colors.
+
