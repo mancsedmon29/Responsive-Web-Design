@@ -1,4 +1,4 @@
-# Each element in HTML is a box with a border and its own spacing. It's known as the Box Model.
+# Learn the CSS Box Model by Building a Rothko Painting
 
 Each element in HTML is a box with a border and its spacing. It's known as the Box Model.
 
