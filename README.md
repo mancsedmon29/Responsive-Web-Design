@@ -1,6 +1,4 @@
-# Responsive Web Design Certification
-In this Responsive Web Design Certification, you will learn the languages developers use to create webpages: HTML (Hypertext Markup Language) for content and CSS (Cascading Style Sheets) for design.
+# Learn Typography by Building a Nutrition Label
+The art of typography involves arranging text so that it is both readable and has a function.
 
-To start, you'll master the fundamentals of HTML and CSS by creating a cat photo app. Eventually, you will construct a penguin to learn about current approaches like CSS variables, and a quiz site to learn about the best standards for accessibility.
-
-Lastly, you will learn how to create responsive webpages by using CSS Grid to create a magazine article layout and Flexbox to build a photo gallery.
+Throughout this course, you will create a nutrition label webpage using typography. You will discover how to use CSS to style text, change the line height, and reposition it.
