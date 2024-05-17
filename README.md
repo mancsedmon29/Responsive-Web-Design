@@ -1,5 +1,5 @@
-# Learn CSS Flexbox by Building a Photo Gallery, Not started
+# Each element in HTML is a box with a border and its own spacing. It's known as the Box Model.
 
-Designing a webpage with Flexbox enables it to look good on all screen sizes.
+Each element in HTML is a box with a border and its spacing. It's known as the Box Model.
 
-You will learn how to create a responsive photo gallery webpage in this course using Flexbox.
+You will learn how to make your rectangle artwork in the style of Rothko using CSS and the Box Model in this course.
