@@ -1,6 +1,4 @@
-# Responsive Web Design Certification
-In this Responsive Web Design Certification, you will learn the languages developers use to create webpages: HTML (Hypertext Markup Language) for content and CSS (Cascading Style Sheets) for design.
+# Learn CSS Flexbox by Building a Photo Gallery
+Designing a webpage with Flexbox enables it to look good on all screen sizes.
 
-To start, you'll master the fundamentals of HTML and CSS by creating a cat photo app. Eventually, you will construct a penguin to learn about current approaches like CSS variables, and a quiz site to learn about the best standards for accessibility.
-
-Lastly, you will learn how to create responsive webpages by using CSS Grid to create a magazine article layout and Flexbox to build a photo gallery.
+You will learn how to create a responsive photo gallery webpage in this course using Flexbox.
